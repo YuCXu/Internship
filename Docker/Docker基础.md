@@ -10,7 +10,7 @@ Docker是一个能够把开发的应用程序**自动部署到容器的开源引
 
 ​	Docker是一个客户端/服务器（C/S）架构的程序。Docker客户端只需向Docker服务器或者守护进程发出请求，服务器或将守护进程将完成所有工作并返回结果。Docker守护进程有时也称为Docker引擎。
 
-![1](C:\Users\YuChen_Xu\Desktop\工具手册\每日知识点\NOTE\Docker\images\1.PNG)
+![1](https://github.com/YuCXu/Internship/blob/master/Docker/images/1.PNG)
 
 ②Docker镜像；
 
