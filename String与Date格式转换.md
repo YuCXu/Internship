@@ -5,7 +5,6 @@
 ```java
 SimpleDateFormat fmt =new SimpleDateFormat("yyyy-MM-dd");
 Date date = fmt.parse("String");
-test.setStartTime(date); 
 ```
 
 #### 二、Date——>String
