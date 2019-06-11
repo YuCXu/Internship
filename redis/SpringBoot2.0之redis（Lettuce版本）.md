@@ -212,13 +212,13 @@ public class Chapter6ApplicationTests {
 
 测试结果：
 
-![redis1](C:\Users\yxu\Desktop\redis1.PNG)
+![redis1](https://github.com/YuCXu/Internship/blob/master/redis/redis1.PNG)
 
 redis中缓存：
 
-![redis2](C:\Users\yxu\Desktop\redis2.PNG)
+![redis2](https://github.com/YuCXu/Internship/blob/master/redis/redis2.PNG)
 
-![redis3](C:\Users\yxu\Desktop\redis3.PNG)
+![redis3](https://github.com/YuCXu/Internship/blob/master/redis/redis3.PNG)
 
 中文成功显示，并且对象在redis以json方式存储，代表我们配置成功。
 下列的就是Redis其它类型所对应的操作方式
